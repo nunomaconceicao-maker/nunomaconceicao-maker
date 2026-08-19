@@ -17,9 +17,9 @@ Utilizo o GitHub como um portefólio técnico, onde documento laboratórios, inv
 
 ## 🚀 Projetos em Destaque
 
-* 🔍 **[DFIR Triage tool](#)** - Ferramenta desenvolvida em Python para apoiar a triagem inicial de evidências digitais, incluindo organização de artefactos, preservação dos ficheiros e geração de manifestos de integridade. *(Tecnologias: Python · SHA-256 · DFIR · Digital Forensics)*
-* 🕵️ **[DFIR Investigations Portfolio](#)** - Portefólio de investigações forenses simuladas, documentando processos de análise, timelines, evidências, indicadores de compromisso e conclusões. *(Áreas: Digital Forensics · Incident Response · Evidence Analysis)*
-* 🌐 **[Network Forensics Lab](#)** - Laboratórios práticos de análise de tráfego de rede utilizando Wireshark, PCAPs e análise de protocolos. *(Áreas: TCP/IP · Wireshark · Network Forensics · Traffic Analysis)*
+* 🔍 **[DFIR-triage-tool](#)** - Ferramenta desenvolvida em Python para apoiar a triagem inicial de evidências digitais, incluindo organização de artefactos, preservação dos ficheiros e geração de manifestos de integridade. *(Tecnologias: Python · SHA-256 · DFIR · Digital Forensics)*
+* 🕵️ **[DFIR-Investigations-Portfolio](#)** - Portefólio de investigações forenses simuladas, documentando processos de análise, timelines, evidências, indicadores de compromisso e conclusões. *(Áreas: Digital Forensics · Incident Response · Evidence Analysis)*
+* 🌐 **[Network-Forensics-Wireshark](#)** - Laboratórios práticos de análise de tráfego de rede utilizando Wireshark, PCAPs e análise de protocolos. *(Áreas: TCP/IP · Wireshark · Network Forensics · Traffic Analysis)*
 
 ## 🧰 Tecnologias & Ferramentas
 * **Cybersecurity:** DFIR, SOC, Incident Response, Threat Hunting, API Security
